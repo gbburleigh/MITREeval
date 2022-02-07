@@ -1,0 +1,7 @@
+*.csv
+*.json
+/eval_env
+/results
+/json
+/graphs
+/__pycache__
